@@ -56,6 +56,9 @@ header p {
 .hero .content .sub-title p:last-child {
   color: #0095ff;
 }
+.hero .content .sub-title p:first-child {
+  color: #0095ff;
+}
 .hero .content .buttons {
   display: flex;
   align-items: center;
