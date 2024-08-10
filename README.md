@@ -1,1 +1,0 @@
-# Full-Stack-GYM-Application-with-MERN
