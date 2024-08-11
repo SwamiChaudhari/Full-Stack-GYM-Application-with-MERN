@@ -11,6 +11,7 @@ import Pricing from "./components/Pricing";
 import Contact from "./components/Contact";
 import BMICalculator from "./components/BMICalculator";
 import Footer from "./components/Footer";
+import Social from "./components/Social";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
       <Contact />
       <BMICalculator />
       <Footer />
+      <Social/>
       <ToastContainer theme="dark" position="top-center" />
     </Router>
   );

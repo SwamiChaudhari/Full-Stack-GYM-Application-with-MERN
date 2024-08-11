@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>Design and Developed By Swami Chaudhari</footer>
   )
 }
 
