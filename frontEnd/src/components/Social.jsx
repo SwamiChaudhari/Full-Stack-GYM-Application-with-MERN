@@ -1,4 +1,6 @@
 import React from 'react'
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 const Social = () => {
   return (
@@ -6,8 +8,8 @@ const Social = () => {
 <div class="social-connect">
     <h2>Follow Us on Social Media</h2>
     <div class="social-handlers">
-        <a href="https://www.facebook.com/yourprofile" target="_blank" class="social-icon facebook">
-            <i class="fab fa-facebook-f"></i>
+        <a href="https://github.com/yourprofile" target="_blank" className="social-icon github">
+            <i className="fab fa-github"></i>
         </a>
         <a href="https://www.twitter.com/yourprofile" target="_blank" class="social-icon twitter">
             <i class="fab fa-twitter"></i>
