@@ -13,6 +13,8 @@ import BMICalculator from "./components/BMICalculator";
 import Footer from "./components/Footer";
 import Social from "./components/Social";
 
+
+
 const App = () => {
   return (
     <Router>
